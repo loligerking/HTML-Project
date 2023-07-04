@@ -1,1 +1,6 @@
-test3
+
+const widg = document.querySelector(".name");
+
+function onPress () {
+    widg.style.color = "red";
+} 
